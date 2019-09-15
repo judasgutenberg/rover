@@ -13,5 +13,6 @@ for x in range(0,10):
 	GPIO.output(24, GPIO.LOW)
 	time.sleep(0.08)
 GPIO.output(24, GPIO.LOW)
+GPIO.cleanup()
 	
  

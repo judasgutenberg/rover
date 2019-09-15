@@ -9,4 +9,5 @@ GPIO.output(24, GPIO.LOW)
 
 GPIO.setup(18,GPIO.INPUT)
 GPIO.setup(20,GPIO.INPUT)
+GPIO.cleanup()
  

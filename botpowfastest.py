@@ -18,3 +18,6 @@ pwm.stop()
 #time.sleep(0)
 #p.stop()
 #GPIO.output(23, GPIO.LOW)
+
+
+GPIO.cleanup()
