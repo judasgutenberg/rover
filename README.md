@@ -22,3 +22,5 @@ I'm pretty sure now that that commentator was wrong. My symptoms at the wires go
 I measured the voltages coming off the L293D with no load and it was 9volts in one direction and 9volts in the other.  So perhaps the rudder system in the boat I am using is inherently incompatible with the L293D.
 
 I treied the L293D with an electric motor instead of the rudder on the toy boat I'd been using. It was able to rotate the motor both directions, but it went much faster in one direction than the other.
+
+Wait, is this for the Rover or the Waterbot?
