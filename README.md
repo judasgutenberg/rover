@@ -1,6 +1,6 @@
 #rover
 
-code for controlling a Raspberry-Pi-controlled rover
+code for controlling a Raspberry-Pi-controlled rover, which is just a large remote-controlled toy vehicle with its R/C electronics replaced by a Raspberry Pi and motor drivers.
 
 Starting with a Raspberry Pi with a camera and a pan/tilt mechanism (see https://learn.sparkfun.com/tutorials/setting-up-the-pi-zero-wireless-pan-tilt-camera/all )
 
